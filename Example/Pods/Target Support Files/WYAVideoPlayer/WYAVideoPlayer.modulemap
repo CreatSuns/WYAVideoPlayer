@@ -1,0 +1,6 @@
+framework module WYAVideoPlayer {
+  umbrella header "WYAVideoPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

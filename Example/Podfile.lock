@@ -1,0 +1,19 @@
+PODS:
+  - Masonry (1.0.2)
+  - WYAVideoPlayer (0.1.0):
+    - Masonry (~> 1.0.0)
+
+DEPENDENCIES:
+  - WYAVideoPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  WYAVideoPlayer:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  WYAVideoPlayer: b2a2e52a53cd4443d34de70d4d8b11ded6197527
+
+PODFILE CHECKSUM: daf788fe087cde5e1050e63d9cc089d6457a9e56
+
+COCOAPODS: 1.4.0
