@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WYAVideoPlayer_Example' do
+  pod 'WYAVideoPlayer', :path => '../'
+
+  target 'WYAVideoPlayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
