@@ -22,8 +22,10 @@ pod 'WYAVideoPlayer'
 
 ## Author
 
-1228506851@qq.com, 1228506851@qq.com
+lishihang, 1228506851@qq.com
 
 ## License
 
 WYAVideoPlayer is available under the MIT license. See the LICENSE file for more info.
+
+
